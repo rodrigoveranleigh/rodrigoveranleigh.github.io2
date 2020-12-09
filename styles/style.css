@@ -1,0 +1,45 @@
+html {
+  font-size: 10px; /* px quiere decir 'píxeles': el tamaño de la fuente base es ahora de 10 píxeles de altura */
+  font-family: "Open Sans", sans-serif; /* Este debe ser el resto del resultado que obtuviste de Google fonts */
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center; /* titulo del texto */
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+a { /* Link */
+    font-size: 20px;
+   
+}
+
+html {
+  background-color: #2ECAD6;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #C9f1f2;
+  padding: 10px 20px 20px 20px;
+  border: 5px solid green;
+}
+
+h1 { /* Titulo */
+  margin: 0;
+  padding: 20px 0;
+  color: #4B24D4;
+  text-shadow: 3px 3px 1px black;
+}
+
+img { /* Imangen */
+  display: block;
+  margin: 0 auto;     
+}
